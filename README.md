@@ -15,7 +15,7 @@ https://github.com/Ftm-creator/IPL-social.git
 
 
 ### Explication du code 
-
+Le but de l'excercice  est de creer une pipeline de CI via GitHub Actions pour exécuter  des tests unitaires écrits en utilisant le TDD .
 
 
 ## Tests 
